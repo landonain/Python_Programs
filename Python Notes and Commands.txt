@@ -1,0 +1,47 @@
+**Shutdown**
+	
+	run CMD as y account
+	shutdown -r -f -m \\pcnamehere
+	-r = reboot -f = force -m = machine
+
+
+	
+**Admin Share**
+	
+	must have domain admin account
+	\\pcnamehere\c$
+
+	
+	
+##you can change the sys path in python shell
+	
+	#adds all the folders in the path file to python
+	import sys
+	#displays full list
+	sys.path  
+	#adds filepath to sys.path
+	sys.path.append('filepath') 
+
+##Creating file in windows from cmd line
+	
+	type NUL > dir/filename.py
+	
+
+##Magic Methods
+
+	#resides inside of a folder and intializes the dir as a module
+	__init__.py  
+	**When using the importer the python IDLE will have access 
+	to anything with an __init__.py  
+	
+**control alt del
+
+		cntrl alt end = rdp
+		cntrl alt home = vm 
+		awesome
+
+
+##		
+	
+
+	
