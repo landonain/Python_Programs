@@ -7,6 +7,7 @@
         Saves the copy text to a shelf for storage
         There is a file in system32 that is a batch file so I can run this from
         the run window (win + r).
+        Changed the mcb to be recipe for the batch files
 '''
 
 
